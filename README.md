@@ -99,7 +99,7 @@ Before continuing to install osTicket, a file needs to be renamed as well as hav
 
 <p>
 <img src="https://i.imgur.com/LjMzNsF.png" height="80%" width="80%" alt="Installation Steps"/>
-<img src="https://i.imgur.com/PiJMYZ6.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/PQZVAVz.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
 From the installation files, download and install HeidiSQL. Create a new session with HeidiSQL and enter the password used in the installation of MySQL earlier. Within the new session, right-click on Unnamed and create a new database named osTicket. 
