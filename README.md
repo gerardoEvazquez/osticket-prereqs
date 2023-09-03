@@ -62,7 +62,7 @@ Next, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the instal
 
 
 <p>
-<img src="https://i.imgur.com/9ylqXGk.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/gLzj0q1.png" height="80%" width="80%" alt="Installation Steps"/>
 <img src="https://i.imgur.com/9YlKqlA.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
